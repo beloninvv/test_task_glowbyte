@@ -1,8 +1,12 @@
 Лучший результат 
-Roc-Auc: 0.8115135653390687
-Precision at best threshold: 0.2267
-Recall at best threshold: 0.1943
-F1 Score: 0.2092
+
+**Roc-Auc**: 0.8115135653390687
+
+**Precision** at best threshold: 0.2267
+
+**Recall** at best threshold: 0.1943
+
+**F1 Score**: 0.2092
 
 **Что я делал:**
 
